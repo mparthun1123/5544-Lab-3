@@ -1,0 +1,455 @@
+state,Month,cases
+Alabama,3,6129
+Alabama,4,125166
+Alabama,5,372033
+Alabama,6,800287
+Alabama,7,1918336
+Alabama,8,3355858
+Alabama,9,4227298
+Alabama,10,5332670
+Alaska,3,851
+Alaska,4,8231
+Alaska,5,12256
+Alaska,6,23003
+Alaska,7,67633
+Alaska,8,154871
+Alaska,9,220233
+Alaska,10,367261
+Arizona,1,6
+Arizona,2,29
+Arizona,3,6830
+Arizona,4,128668
+Arizona,5,417110
+Arizona,6,1297231
+Arizona,7,4105142
+Arizona,8,5951480
+Arizona,9,6320568
+Arizona,10,7142027
+Arkansas,3,3965
+Arkansas,4,53571
+Arkansas,5,150100
+Arkansas,6,402154
+Arkansas,7,972426
+Arkansas,8,1633930
+Arkansas,9,2173272
+Arkansas,10,3025302
+California,1,14
+California,2,285
+California,3,55406
+California,4,865585
+California,5,2476264
+California,6,4905111
+California,7,11404982
+California,8,19168697
+California,9,23157818
+California,10,27163983
+Colorado,3,18603
+Colorado,4,264026
+Colorado,5,660633
+Colorado,6,886415
+Colorado,7,1215655
+Colorado,8,1642292
+Colorado,9,1909117
+Colorado,10,2651624
+Connecticut,3,14606
+Connecticut,4,467204
+Connecticut,5,1124193
+Connecticut,6,1348657
+Connecticut,7,1483675
+Connecticut,8,1585462
+Connecticut,9,1651324
+Connecticut,10,1961272
+Delaware,3,1887
+Delaware,4,67480
+Delaware,5,229386
+Delaware,6,312601
+Delaware,7,410198
+Delaware,8,503506
+Delaware,9,572135
+Delaware,10,706558
+District of Columbia,3,2923
+District of Columbia,4,70950
+District of Columbia,5,215106
+District of Columbia,6,291828
+District of Columbia,7,345436
+District of Columbia,8,407849
+District of Columbia,9,441301
+District of Columbia,10,503658
+Florida,3,35597
+Florida,4,671158
+Florida,5,1396018
+Florida,6,2637626
+Florida,7,9746638
+Florida,8,17469880
+Florida,9,20108236
+Florida,10,23278677
+Georgia,3,22119
+Georgia,4,453331
+Georgia,5,1109472
+Georgia,6,1734682
+Georgia,7,3794129
+Georgia,8,6755964
+Georgia,9,8427889
+Georgia,10,10651435
+Guam,3,594
+Guam,4,20795
+Guam,5,34932
+Guam,6,35170
+Guam,7,39876
+Guam,8,51043
+Guam,9,88088
+Guam,10,140112
+Hawaii,3,1474
+Hawaii,4,14988
+Hawaii,5,19430
+Hawaii,6,22303
+Hawaii,7,41333
+Hawaii,8,156872
+Hawaii,9,327696
+Hawaii,10,433606
+Idaho,3,2359
+Idaho,4,45937
+Idaho,5,75057
+Idaho,6,116842
+Idaho,7,412314
+Idaho,8,848552
+Idaho,9,1106607
+Idaho,10,1634407
+Illinois,1,10
+Illinois,2,59
+Illinois,3,33167
+Illinois,4,802337
+Illinois,5,2822196
+Illinois,6,4025869
+Illinois,7,4987937
+Illinois,8,6477545
+Illinois,9,8067391
+Illinois,10,10729137
+Indiana,3,10152
+Indiana,4,292473
+Indiana,5,857247
+Indiana,6,1241303
+Indiana,7,1745006
+Indiana,8,2546792
+Indiana,9,3290139
+Indiana,10,4586771
+Iowa,3,2794
+Iowa,4,83724
+Iowa,5,441186
+Iowa,6,731691
+Iowa,7,1152156
+Iowa,8,1651099
+Iowa,9,2312934
+Iowa,10,3291856
+Kansas,3,2408
+Kansas,4,55555
+Kansas,5,241100
+Kansas,6,355114
+Kansas,7,663964
+Kansas,8,1086757
+Kansas,9,1554737
+Kansas,10,2245140
+Kentucky,3,3398
+Kentucky,4,74780
+Kentucky,5,234711
+Kentucky,6,389689
+Kentucky,7,694134
+Kentucky,8,1272814
+Kentucky,9,1873371
+Kentucky,10,2751940
+Louisiana,3,28913
+Louisiana,4,625639
+Louisiana,5,1061231
+Louisiana,6,1436753
+Louisiana,7,2696554
+Louisiana,8,4228513
+Louisiana,9,4777934
+Louisiana,10,5504935
+Maine,3,2110
+Maine,4,22358
+Maine,5,52158
+Maine,6,84057
+Maine,7,112034
+Maine,8,129919
+Maine,9,148402
+Maine,10,183375
+Maryland,3,8831
+Maryland,4,327492
+Maryland,5,1190664
+Maryland,6,1867000
+Maryland,7,2391813
+Maryland,8,3103859
+Maryland,9,3532754
+Maryland,10,4187127
+Massachusetts,2,29
+Massachusetts,3,34418
+Massachusetts,4,977699
+Massachusetts,5,2582585
+Massachusetts,6,3164865
+Massachusetts,7,3498717
+Massachusetts,8,3824563
+Massachusetts,9,3785693
+Massachusetts,10,4449113
+Michigan,3,39225
+Michigan,4,818293
+Michigan,5,1558908
+Michigan,6,1981377
+Michigan,7,2483179
+Michigan,8,3165462
+Michigan,9,3764054
+Michigan,10,4999083
+Minnesota,3,4480
+Minnesota,4,65270
+Minnesota,5,469404
+Minnesota,6,925287
+Minnesota,7,1388670
+Minnesota,8,2020252
+Minnesota,9,2608776
+Minnesota,10,3740804
+Mississippi,3,5791
+Mississippi,4,109721
+Mississippi,5,344072
+Mississippi,6,614642
+Mississippi,7,1279092
+Mississippi,8,2235453
+Mississippi,9,2734173
+Mississippi,10,3374666
+Missouri,3,6536
+Missouri,4,144460
+Missouri,5,334500
+Missouri,6,517729
+Missouri,7,1053767
+Missouri,8,2121856
+Missouri,9,3260351
+Missouri,10,4918413
+Montana,3,1200
+Montana,4,11538
+Montana,5,14576
+Montana,6,19781
+Montana,7,71052
+Montana,8,177325
+Montana,9,294470
+Montana,10,685645
+Nebraska,2,151
+Nebraska,3,1682
+Nebraska,4,44916
+Nebraska,5,305559
+Nebraska,6,508068
+Nebraska,7,691529
+Nebraska,8,939396
+Nebraska,9,1186725
+Nebraska,10,1761979
+Nevada,3,6859
+Nevada,4,97660
+Nevada,5,213197
+Nevada,6,365782
+Nevada,7,1014765
+Nevada,8,1877885
+Nevada,9,2237427
+Nevada,10,2776684
+New Hampshire,3,2232
+New Hampshire,4,36795
+New Hampshire,5,109009
+New Hampshire,6,159771
+New Hampshire,7,190987
+New Hampshire,8,215935
+New Hampshire,9,233082
+New Hampshire,10,296949
+New Jersey,3,92534
+New Jersey,4,2186635
+New Jersey,5,4470485
+New Jersey,6,5021309
+New Jersey,7,5527664
+New Jersey,8,5859177
+New Jersey,9,5995211
+New Jersey,10,6855288
+New Mexico,3,1989
+New Mexico,4,49429
+New Mexico,5,177992
+New Mexico,6,298314
+New Mexico,7,504146
+New Mexico,8,721859
+New Mexico,9,815678
+New Mexico,10,1131556
+New York,3,464981
+New York,4,6328973
+New York,5,10850463
+New York,6,11656829
+New York,7,12690287
+New York,8,13329072
+New York,9,13535662
+New York,10,15087402
+North Carolina,3,8617
+North Carolina,4,168317
+North Carolina,5,573602
+North Carolina,6,1381996
+North Carolina,7,2908111
+North Carolina,8,4509937
+North Carolina,9,5679982
+North Carolina,10,7503763
+North Dakota,3,787
+North Dakota,4,14825
+North Dakota,5,57787
+North Dakota,6,93310
+North Dakota,7,149692
+North Dakota,8,273194
+North Dakota,9,496720
+North Dakota,10,969332
+Northern Mariana Islands,3,8
+Northern Mariana Islands,4,355
+Northern Mariana Islands,5,589
+Northern Mariana Islands,6,862
+Northern Mariana Islands,7,1100
+Northern Mariana Islands,8,1578
+Northern Mariana Islands,9,1893
+Northern Mariana Islands,10,2541
+Ohio,3,12114
+Ohio,4,287164
+Ohio,5,847509
+Ohio,6,1279993
+Ohio,7,2204116
+Ohio,8,3343527
+Ohio,9,4190398
+Ohio,10,5591170
+Oklahoma,3,3069
+Oklahoma,4,67883
+Oklahoma,5,160500
+Oklahoma,6,277672
+Oklahoma,7,738132
+Oklahoma,8,1492560
+Oklahoma,9,2178612
+Oklahoma,10,3264217
+Oregon,2,2
+Oregon,3,4621
+Oregon,4,50484
+Oregon,5,108485
+Oregon,6,184416
+Oregon,7,421377
+Oregon,8,713551
+Oregon,9,900076
+Oregon,10,1208025
+Pennsylvania,3,23859
+Pennsylvania,4,822697
+Pennsylvania,5,1994490
+Pennsylvania,6,2516170
+Pennsylvania,7,3210520
+Pennsylvania,8,3985340
+Pennsylvania,9,4544303
+Pennsylvania,10,5751331
+Puerto Rico,3,995
+Puerto Rico,4,28004
+Puerto Rico,5,81768
+Puerto Rico,6,174784
+Puerto Rico,7,353563
+Puerto Rico,8,802706
+Puerto Rico,9,1187034
+Puerto Rico,10,1763740
+Rhode Island,3,2570
+Rhode Island,4,119603
+Rhode Island,5,381262
+Rhode Island,6,481310
+Rhode Island,7,549884
+Rhode Island,8,635058
+Rhode Island,9,698781
+Rhode Island,10,871329
+South Carolina,3,6329
+South Carolina,4,113247
+South Carolina,5,269994
+South Carolina,6,636483
+South Carolina,7,1978230
+South Carolina,8,3278566
+South Carolina,9,4017202
+South Carolina,10,5027463
+South Dakota,3,711
+South Dakota,4,36231
+South Dakota,5,118915
+South Dakota,6,177958
+South Dakota,7,240095
+South Dakota,8,326993
+South Dakota,9,529111
+South Dakota,10,1007707
+Tennessee,3,12360
+Tennessee,4,187332
+Tennessee,5,536423
+Tennessee,6,956724
+Tennessee,7,2204796
+Tennessee,8,4014961
+Tennessee,9,5211831
+Tennessee,10,6915907
+Texas,2,91
+Texas,3,20623
+Texas,4,494349
+Texas,5,1463433
+Texas,6,3090759
+Texas,7,9496585
+Texas,8,17220155
+Texas,9,21291250
+Texas,10,26750694
+Utah,2,5
+Utah,3,5562
+Utah,4,82277
+Utah,5,221484
+Utah,6,464269
+Utah,7,988673
+Utah,8,1445189
+Utah,9,1830446
+Utah,10,2871556
+Vermont,3,1850
+Vermont,4,21158
+Vermont,5,29029
+Vermont,6,33551
+Vermont,7,41004
+Vermont,8,46881
+Vermont,9,50777
+Vermont,10,60075
+Virgin Islands,3,230
+Virgin Islands,4,1530
+Virgin Islands,5,2122
+Virgin Islands,6,2250
+Virgin Islands,7,7748
+Virgin Islands,8,23904
+Virgin Islands,9,37072
+Virgin Islands,10,41411
+Virginia,3,6976
+Virginia,4,223907
+Virginia,5,925411
+Virginia,6,1644315
+Virginia,7,2330822
+Virginia,8,3291471
+Virginia,9,4069810
+Virginia,10,5085677
+Washington,1,11
+Washington,2,60
+Washington,3,46214
+Washington,4,327552
+Washington,5,594493
+Washington,6,845988
+Washington,7,1439072
+Washington,8,2150641
+Washington,9,2537498
+Washington,10,3148094
+West Virginia,3,866
+West Virginia,4,21315
+West Virginia,5,47442
+West Virginia,6,71793
+West Virginia,7,145677
+West Virginia,8,262522
+West Virginia,9,394496
+West Virginia,10,609037
+Wisconsin,2,25
+Wisconsin,3,9353
+Wisconsin,4,119648
+Wisconsin,5,391353
+Wisconsin,6,761387
+Wisconsin,7,1357567
+Wisconsin,8,2165905
+Wisconsin,9,3030848
+Wisconsin,10,5505967
+Wyoming,3,776
+Wyoming,4,10987
+Wyoming,5,22780
+Wyoming,6,33714
+Wyoming,7,63980
+Wyoming,8,102356
+Wyoming,9,140056
+Wyoming,10,279238
