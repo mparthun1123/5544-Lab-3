@@ -1,0 +1,18 @@
+Location,Hotel,Capitol,The White House,Lincoln,The Washington Monument,National Mall,Air and Space Museum,Gallery of Art,Museum of Natural History,Zoological Park,Museum of American History,Jefferson Memorial,Arlington Cemetery,Spy Museum,Museum of African American Hist & Cult,National Cathedral,Old Ebbitt Grill
+Hotel,0,20,10,9,8,6,6,6,7,22,8,6,11,8,8,19,10
+Capitol,20,0,8,10,9,4,5,3,5,21,5,7,12,7,6,20,11
+The White House,10,8,0,6,5,7,7,6,5,15,4,6,9,7,3,16,1
+Lincoln,9,10,6,0,6,7,7,6,5,12,4,7,3,7,3,12,6
+The Washington Monument,8,9,5,6,0,6,6,5,4,16,4,4,7,6,3,12,6
+National Mall,6,4,7,7,6,0,1,2,2,19,3,5,9,5,4,18,8
+Air and Space Museum,6,5,7,7,6,1,0,3,4,21,4,5,9,5,6,18,8
+Gallery of Art,6,3,6,6,5,2,3,0,1,18,2,4,8,4,3,17,6
+Museum of Natural History,7,5,5,5,4,2,4,1,0,16,1,3,7,3,2,15,5
+Zoological Park,22,21,15,12,16,19,21,18,16,0,16,15,14,18,17,7,15
+Museum of American History,8,5,4,4,4,3,4,2,1,16,0,3,8,3,1,15,5
+Jefferson Memorial,6,7,6,7,4,5,5,4,3,15,3,0,6,5,4,14,6
+Arlington Cemetery,11,12,9,3,7,9,9,8,7,14,8,6,0,8,7,13,10
+Spy Museum,8,7,7,7,6,5,5,4,3,18,3,5,8,0,5,17,8
+Museum of African American Hist & Cult,8,6,3,3,3,4,6,3,2,17,1,4,7,5,0,13,3
+National Cathedral,19,20,16,12,12,18,18,17,15,7,15,14,13,17,13,0,16
+Old Ebbitt Grill,10,11,1,6,6,8,8,6,5,15,5,6,10,8,3,16,0
